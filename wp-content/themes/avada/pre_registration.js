@@ -36,7 +36,7 @@ $j(document).ready(function($) {
            parent_mail : $("input[name='parent_mail']").val()
         }
 
-        $.post("https://www.canorcul.com/wp-admin/pre_registration_utils.php",
+        $.post("https://www.x.com/wp-admin/pre_registration_utils.php",
           {
             formdata: formdata
           },
